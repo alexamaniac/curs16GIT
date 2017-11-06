@@ -1,0 +1,5 @@
+Test
+ALT+T - adaugare Terminal
+cd curs16GIT -adaugare fisier
+git - afisare comenzi
+git init - creare docs
