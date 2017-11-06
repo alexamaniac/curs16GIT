@@ -5,6 +5,6 @@ git - afisare comenzi
 git init - creare docs
 git status - starea proiectului local 
 git add . - adauga mai multe fisiere
-fit add nume fisier - adauga doar fisierul numit
+git add nume fisier - adauga doar fisierul numit
 git commit - trebuie pus un comentariu cu ce reprezinta condul 
 git commit -m "Add test file" / -m "Add test file" - commenturile se pun intr ghilimele
